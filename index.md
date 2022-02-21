@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## HeBeiHelp——学生互动、监督、交流项目
 
 You can use the [editor on GitHub](https://github.com/HeBeiHelp/hebeihelp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HeBeiHelp/hebeihelp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 项目简介
+HebeiHelp是由学生自发创建的学生间互动监督交流项目，面向着学生群体，团结学生群体，最终目的是为了促进基础教育系统的监督、完善，在过程中注入一份来自学生群体的力量。
+目前项目运作还处于最初期，欢迎你的加入。
+### 项目动机
+2022年2月初，一名来自河北省衡水市桃城中学的学生在社交媒体发万字长文控诉学校包括入学需签订保密合同、教师收礼、学校食堂食品安全问题（包括饭菜中发现虫子、塑料袋，钢丝球、头发等）、区别对待学生，侵犯学生个人隐私、违规组织考试、不合理时间安排、翻查行李箱，阴阳课表、不重视学生心理健康等等在内的种种不合理制度与违规行为。紧接着，在2月10日、16日，衡水桃城中学分别在官方公众号和@衡水桃城中学初中部 官方微博回应称“近期网络言论为不实言论”。随着时间推移，事件在网络上进一步发酵，引发了更加广泛的关注，大量来自全国各地的网友发布有关声讨。至此，决定成立HeBeiHelp互动监督交流项目。
+### 运作方式
+通过项目网站、公共媒体平台持续收集教育行业相关讯息，同时接收邮箱投稿，团结各地学生对掌握有充分证据的违规行为、违规学校向各级有关教育、市场监督等部门进行大量、精准举报，对违规行为实现举报，从而促进教育系统完善。
